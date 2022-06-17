@@ -1,0 +1,61 @@
+[{
+        "title": "Connect 4 ",
+        "price": 10.97,
+        "thumbnail": "https: //m.media-amazon.com/images/I/81fEiLrmZ8L._AC_UL320_.jpg",
+        "id": 0
+    },
+    {
+        "title": "The Game of Life",
+        "price": 35.42,
+        "thumbnail": "https://m.media-amazon.com/images/I/815+HGMsLdL._AC_UL320_.jpg",
+        "id": 1
+    },
+    {
+        "title": "Trouble Game",
+        "price": 25.53,
+        "thumbnail": "https://m.media-amazon.com/images/I/91P0qmjWBWL._AC_UL320_.jpg",
+        "id": 2
+    },
+    {
+        "title": "My Feelings",
+        "price": 29.95,
+        "thumbnail": "https://m.media-amazon.com/images/I/81fEiLrmZ8L._AC_UL320_.jpg",
+        "id": 3
+    },
+    {
+        "title": "Sorry",
+        "price": 21.67,
+        "thumbnail": "https://m.media-amazon.com/images/I/811mGsv+Y8L._AC_UL320_.jpg",
+        "id": 4
+    },
+    {
+        "title": "Connect 4 ",
+        "price": 10.97,
+        "thumbnail": "https: //m.media-amazon.com/images/I/81fEiLrmZ8L._AC_UL320_.jpg",
+        "id": 5
+    },
+    {
+        "title": "The Game of Life",
+        "price": 35.42,
+        "thumbnail": "https://m.media-amazon.com/images/I/815+HGMsLdL._AC_UL320_.jpg",
+        "id": 6
+    },
+    {
+        "title": "Trouble Game",
+        "price": 25.53,
+        "thumbnail": "https://m.media-amazon.com/images/I/91P0qmjWBWL._AC_UL320_.jpg",
+        "id": 7
+    },
+    {
+        "title": "My Feelings",
+        "price": 29.95,
+        "thumbnail": "https://m.media-amazon.com/images/I/81fEiLrmZ8L._AC_UL320_.jpg",
+        "id": 8
+    },
+    {
+        "title": "Sorry",
+        "price": 21.67,
+        "thumbnail": "https://m.media-amazon.com/images/I/811mGsv+Y8L._AC_UL320_.jpg",
+        "id": 9
+    }
+]
